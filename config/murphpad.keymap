@@ -73,8 +73,8 @@
             bindings = <
                 &trans      &kp C_PP   &KP C_NEXT    &KP C_PREVIOUS  &trans  
                 &trans      &kp KP_NUM &trans        &trans          &trans     
-                &trans      &trans     &KP UP        &trans          &trans
-                &bt BT_CLR  &KP LEFT   &KP DOWN      &KP RIGHT       &kp KP_ENTER    
+                &trans      &trans     &kp UP        &trans          &trans
+                &bt BT_CLR  &kp LEFT   &kp DOWN      &kp RIGHT       &kp KP_ENTER    
                 &trans      &trans     &trans        &trans          &trans
                 &kp DEL     &trans     &trans        &trans          &trans           
             >;  
