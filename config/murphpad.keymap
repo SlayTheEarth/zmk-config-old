@@ -41,7 +41,7 @@
         combo_bt_nxt {
             timeout-ms = <TIMEOUT>;
             key-positions = <1 4>;
-            bindings = <&KP C_SLEEP>;
+            bindings = <&kp C_SLEEP>;
         };
     };
     
